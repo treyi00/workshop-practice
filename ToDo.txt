@@ -2,3 +2,4 @@ Conversion functions needed：
  - Dollars to Centers
  - Gallons to Liters
  - Hours to Minutes
+ - Feet to Inches
