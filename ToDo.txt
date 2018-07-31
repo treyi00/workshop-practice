@@ -3,4 +3,6 @@ adsfadsConversion functions needed：
  - Dollars to Centers
  - Gallons to Liters
  - Hours to Minutes
+
+--This is added by Trey
  - Feet to Inches
