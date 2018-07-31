@@ -4,3 +4,4 @@ Conversion functions needed：
  - Hours to Minutes
 
 --This is added by Trey
+ - Feet to Inches
